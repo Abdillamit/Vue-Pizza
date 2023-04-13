@@ -75,6 +75,15 @@ export default createStore({
         counter: 0,
         category: "Вегетарианская",
       },
+      {
+        id: 8,
+        name: "Кебаб пицца",
+        price: 695,
+        imgUrl:
+          "https://dodopizza-a.akamaihd.net/static/Img/Products/c50c0b719d0847ba9ce92d51fe658b8c_292x292.webp",
+        counter: 0,
+        category: "Вегетарианская",
+      },
     ],
 
     filteredPizzas: [],
